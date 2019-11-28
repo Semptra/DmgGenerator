@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OfflineInstallerPoC.DmgGenerator", "OfflineInstallerPoC.DmgGenerator\OfflineInstallerPoC.DmgGenerator.csproj", "{6CECB84A-BFE4-499B-B42C-2E95FE55C209}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OfflineInstallerPoC.Common", "OffilneInstallerPoC.Common\OfflineInstallerPoC.Common.csproj", "{ABE91797-1472-49FE-8D43-C0706D6D3DC6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6CECB84A-BFE4-499B-B42C-2E95FE55C209}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6CECB84A-BFE4-499B-B42C-2E95FE55C209}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6CECB84A-BFE4-499B-B42C-2E95FE55C209}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6CECB84A-BFE4-499B-B42C-2E95FE55C209}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ABE91797-1472-49FE-8D43-C0706D6D3DC6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABE91797-1472-49FE-8D43-C0706D6D3DC6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABE91797-1472-49FE-8D43-C0706D6D3DC6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABE91797-1472-49FE-8D43-C0706D6D3DC6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
